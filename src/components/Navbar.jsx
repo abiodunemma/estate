@@ -24,11 +24,11 @@ bg-transparent'>
     <ul className='hidden md:flex gap-7 text-white'>
         <a href="#header" className='cursor-pointer
         hover:text-gray-400'>Home</a>
-         <a href="#header" className='cursor-pointer
+         <a href="#About" className='cursor-pointer
         hover:text-gray-400'>About</a>
-         <a href="#header" className='cursor-pointer
+         <a href="#projects" className='cursor-pointer
         hover:text-gray-400'>projects</a>
-         <a href="#header" className='cursor-pointer
+         <a href="#Testtimonials" className='cursor-pointer
         hover:text-gray-400'>Testtimonials</a>
     </ul>
     <button className='hidden md:block bg-white px-8

@@ -32,6 +32,10 @@ const About = () => {
         <p>Ongoing Projecct</p>
     </div>
 </div>
+<p className='my-10 max-w-lg'>ABSTRACT
+
+This report summarizes the experience gained during my SIWES training in the Histopathology Lab at Lagos State University Teaching Hospital (LASUTH), within the Pathology and Forensic Medicine department. During my training, I was actively involved in the preparation and examination of tissue samples, assisting with slide preparation, staining, and the use of microscopes for the identification of various pathological conditions. I gained hands-on experience in laboratory procedures and learned about the importance of histopathology in diagnosing diseases and supporting medical investigations. This report provides insight into the skills I developed and the knowledge I acquired in the histopathology lab environment.</p>
+<button className='bg-blue-600 text-white px-8 py-2 rounded'>Learn more</button>
 </div>
 </div>
     </div>
