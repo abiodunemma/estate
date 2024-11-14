@@ -28,8 +28,8 @@ bg-transparent'>
         hover:text-gray-400'>About</a>
          <a href="#projects" className='cursor-pointer
         hover:text-gray-400'>projects</a>
-         <a href="#Testtimonials" className='cursor-pointer
-        hover:text-gray-400'>Testtimonials</a>
+         <a href="#Testimonials" className='cursor-pointer
+        hover:text-gray-400'>Testimonials</a>
     </ul>
     <button className='hidden md:block bg-white px-8
     py-2 rounded-full'>Sign up</button>
